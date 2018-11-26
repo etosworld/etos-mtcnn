@@ -2,6 +2,8 @@
 
 train mtcnn from scratch. for [ETOS](https://etos.world) Ecosystem.
 
+MTCNN is widely used face detector for mobile devices. to train mtcnn model is a bit complex, enjoy it.
+
 This work is used for reproduce MTCNN,a Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks.
 
 ## Prerequisites

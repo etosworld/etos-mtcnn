@@ -1,6 +1,6 @@
 ### etos-mtcnn
 
-train mtcnn from scratch. for [ETOS](https://etos.world) Ecosystem.
+train mtcnn from scratch.
 
 MTCNN is widely used face detector for mobile devices. to train mtcnn model is a bit complex, enjoy it.
 
